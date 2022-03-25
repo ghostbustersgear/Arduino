@@ -1,5 +1,5 @@
 # Arduino Code for Ghostbusters Gear Props
-This repository is provided as a convenient means to access Arduino code developed as part of custom Ghostbusters-related props developed by Nathan Miller as part of the Ghostbusters Gear account on Instagram and Patreon.
+This repository is provided as a convenient means to access Arduino code developed as part of custom Ghostbusters-related props developed by Nathan Miller as part of the Ghostbusters Gear account on Instagram and Patreon. https://www.patreon.com/ghostbustersgear
 
 Here you will find Arduino code to support electronics setup for the following props:
 
