@@ -10,6 +10,13 @@ Here you will find Arduino code to support electronics setup for the following p
 
 The electronics are useful samples to demonstrate basic light sequencing and the use of RF modules for remote control action.
 
+# How can I contribute?
+If you have built some cool stuff and would like to share it back with the main branch, you can follow these steps...
+
+- Fork the repository
+- Make cool stuff.
+- Submit a Pull request.
+
 # License
 ## GNU General Public License 3.0
 
