@@ -3,11 +3,11 @@ This repository is provided as a convenient means to access Arduino code develop
 
 Here you will find Arduino code to support electronics setup for the following prop projects:
 
-- 3D Printed Ghost Trap  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/34070395)
-- 3D Printed Ghostbusters Neutrona Wand  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/35689867)
-- 3D Printed Ghostbusters Proton Pack  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/40524026)
-- 3D Printed Belt Gizmo - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/43906527)
-- 3D Printed Ghostbusters PKE Meter - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/46880648)
+- 3D Printed RGB Ghost Trap  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/34070395)
+- 3D Printed RGB Ghostbusters Neutrona Wand  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/35689867)
+- 3D Printed RGB Ghostbusters Proton Pack  - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/40524026)
+- 3D Printed RGB Belt Gizmo - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/43906527)
+- 3D Printed RGB Ghostbusters PKE Meter - [Visit the Original Patreon Post with Instructions](https://www.patreon.com/posts/46880648)
 
 The electronics are useful samples to demonstrate basic light sequencing and the use of RF modules for remote control action.
 
